@@ -17,7 +17,7 @@ h1 {
 	background-color: grey ;
 	color: whitesmoke; /* Same as body background. */
 	font-size: 40pt;
-	padding:  3rem 2rem 1rem; /* You want three values. */
+	padding:  3rem 2.5rem 1rem; /* You want three values. */
 	font-weight: bolder;
 	text-transform: uppercase;
 	margin-bottom: 0rem;
@@ -35,7 +35,7 @@ h2 {
 	background-color: grey;
 	color: whitesmoke;
 	font-size: 30pt;
-	padding: 2rem 2rem 2rem;
+	padding: 2rem 2.5rem 2rem;
 	margin: 0rem 0rem 4rem 0rem;
 	font-family: 'Times New Roman', Times, serif;
 	font-weight: capitalize;
