@@ -1,0 +1,93 @@
+/*CSS document*/
+
+/*CSS document*/
+
+body {
+    background-color: rgb(237,227,214)
+    }
+    
+    div.container {
+        max-width: 30em;
+        margin: auto;
+    }
+    
+    figure {
+        margin: 0;
+    }
+    
+    img {
+        width: 100%;
+    }
+    
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    h1 {
+        width: 35%;
+    }
+    
+    h2{
+    
+        font-family: "the-seasons", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(31,81,74);
+        text-decoration: none;
+    }
+
+    h3{
+        font-family: "the-seasons", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color:rgb(31,81,74);
+        text-decoration: none;
+        margin-top: 0.5em;
+        margin-bottom: 0.5rem;
+        font-size: 1.5em;
+    }
+    
+    nav ul li {
+        overflow: auto;
+        list-style-type: none;
+        color:rgb(31,81,74);
+        font-family: "the-seasons", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.5em;
+    }
+    nav ul li a {
+        color: rgb(220, 97, 58);
+        text-decoration: none;
+    }
+    nav ul li a:hover {
+        color: rgb(31,81,74);
+    }
+    
+    p{
+        font-family: "atrament-web", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1em; 
+        margin-top: 0.3rem;
+        padding-bottom: 1.5rem;
+    }
+    
+    a {
+        color: rgb(0,0,0);
+        text-decoration: none;
+    }
+    
+    figcaption{
+        font-family: "the-seasons", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1em; 
+        margin-bottom: 3.5em;
+    }
+    
+
+
+
+   
