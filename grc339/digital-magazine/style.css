@@ -310,3 +310,91 @@ body {
     section.subsribe{
         font-size: 1.5em;
     }
+
+    @media screen and (prefers-color-scheme: dark){
+
+        body{
+            background-color: #333;
+            color:rgb(220, 97, 58)
+        }
+
+        h1 {  
+            background-image: url("Alt\ Logoai.svg");  
+            background-repeat: no-repeat;  
+            background-size: contain;  
+            }  
+
+        h1 img {  
+            opacity: 0;  
+            }  
+
+            h2{
+    
+                font-family: "the-seasons", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                color: rgb(237,227,214);
+                text-decoration: none;
+            }
+        
+            h3{
+                font-family: "the-seasons", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                color:rgb(237,227,214);
+                text-decoration: none;
+                margin-top: 0.5em;
+                margin-bottom: 0.5rem;
+                font-size: 1.5em;
+            }
+            
+            nav ul li {
+                overflow: auto;
+                list-style-type: none;
+                display: inline;
+                color:rgb(237,227,214);
+                font-family: "the-seasons", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                font-size: 1.3em;
+                margin-right: 1em;
+            }
+            nav ul li a {
+                color:rgb(237,227,214);
+                text-decoration: none;
+            }
+            nav ul li a:hover {
+                color: rgb(237,227,214);
+            }
+
+            p{
+                font-family: "atrament-web", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                font-size: 1em; 
+                margin-top: 0.3rem;
+                padding-bottom: 1.5rem;
+                color: rgb(237,227,214)
+            }
+            
+            a {
+                color: rgb(237,227,214);
+                text-decoration: none;
+            }
+            
+            figcaption{
+                font-family: "the-seasons", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+                font-size: 1em; 
+                margin-bottom: 3.5em;
+                color: rgb(237,227,214);
+            }
+
+            figure.gallery figcaption {
+                font-size: 1.2em;
+                font-weight: bold;
+                margin: 1em 0;
+                color:rgb(237,227,214);
+            }
+    }
