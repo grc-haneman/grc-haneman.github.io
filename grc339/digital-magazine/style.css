@@ -314,7 +314,7 @@ body {
     @media screen and (prefers-color-scheme: dark){
 
         body{
-            background-color: #333;
+            background-color: rgb(14, 47, 43);;
             color:rgb(220, 97, 58)
         }
 
