@@ -61,7 +61,7 @@ body {
         list-style-type: none;
         display: inline;
         color:rgb(31,81,74);
-        font-family: "the-seasons", sans-serif;
+        font-family: "merel", sans-serif;
         font-weight: 400;
         font-style: normal;
         font-size: 1.3em;
@@ -76,7 +76,7 @@ body {
     }
     
     p{
-        font-family: "atrament-web", sans-serif;
+        font-family: "merel", sans-serif;
         font-weight: 400;
         font-style: normal;
         font-size: 1em; 
@@ -90,7 +90,7 @@ body {
     }
     
     figcaption{
-        font-family: "the-seasons", sans-serif;
+        font-family: "merel", sans-serif;
         font-weight: 400;
         font-style: normal;
         font-size: 1em; 
@@ -101,7 +101,7 @@ body {
 
         div.container {
             display: grid;
-            grid-template-columns: 2fr 1fr;
+            grid-template-columns: 5fr 1fr;
             grid-gap: 0 1em;
         }
     
@@ -214,8 +214,8 @@ body {
     
     nav.gallery {
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-gap: .1em;
+        grid-template-columns: repeat(8, 1fr);
+        grid-gap: .5em;
     }
     
     div.gallery {
@@ -368,7 +368,7 @@ body {
             }
 
             p{
-                font-family: "atrament-web", sans-serif;
+                font-family: "merel", sans-serif;
                 font-weight: 400;
                 font-style: normal;
                 font-size: 1em; 
